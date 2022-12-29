@@ -6,8 +6,8 @@ This project is a simple book management library application. It is more suitabl
 
 ## Technologies
 Project is created with:
-* Java version: 11.0
-* JavaFX version: 11.0
+* Java version: 19.0
+* JavaFX version: 19.0
 * H2 Database version: 1.4.200
 
 ## Setup
