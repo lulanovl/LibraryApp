@@ -19,6 +19,9 @@ To open and run this project, download this respository to one folder and then o
 * Browse exist books in database (possibility of sorting books by category)
 
 ## Screenshots
+* Main Screen
 ![Main screen](./images/mainScreen.png)
+* Add Book Screen
 ![Add book screen](./images/addBook.png)
+* List of Books Screen
 ![List of books screen](./images/booksView.png)
