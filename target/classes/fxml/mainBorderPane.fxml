@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="598.0" prefWidth="827.0" style="-fx-background-color: #CFF5E7;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="libraryApp.Controllers.MainController">
+   <top>
+      <VBox nodeOrientation="LEFT_TO_RIGHT" prefHeight="109.0" prefWidth="827.0" style="-fx-alignment: center; -fx-padding: 10px;" BorderPane.alignment="CENTER">
+         <children>
+           <fx:include fx:id="topMenuButtons" source="topMenuButtons.fxml" />
+         </children>
+      </VBox>
+   </top>
+   <center>
+      <Label alignment="CENTER" prefHeight="109.0" prefWidth="632.0" text="%cetner.text" textAlignment="CENTER" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Modern No. 20" size="40.0" />
+         </font>
+      </Label>
+   </center>
+</BorderPane>
